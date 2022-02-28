@@ -54,5 +54,5 @@ jobs:
             echo $PWD
             chmod 700 gradlew
             ./gradlew --version
-            ./gradlew dependencies
+
             gradle test
