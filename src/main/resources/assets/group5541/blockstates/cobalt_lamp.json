@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "group5541:block/cobalt_lamp_off" },
+    "clicked=true": { "model": "group5541:block/cobalt_lamp_on" }
+  }
+}

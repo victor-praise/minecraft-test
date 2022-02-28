@@ -1,0 +1,11 @@
+{
+	"item.group5541.example_item":"Example Item",
+	"block.group5541.example_block":"Example Block",
+	"entity.group5541.example_entity":"Example Entity",
+	"item.group5541.clicker":"Clicker",
+	 "item.group5541.dowsing_rod": "Dowsing Rod",
+  "item.group5541.dowsing_rod.no_valuables": "No Valuables Found!",
+  "block.group5541.lightning_jumper": "Lightning Jumper",
+    "block.group5541.cobalt_lamp": "Cobalt Lamp",
+    "block.group5541.cobalt_blaster": "Cobalt Blaster"
+}
