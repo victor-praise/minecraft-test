@@ -38,7 +38,7 @@ jobs:
 
       - run: 
           command: |
-            cd project
+          
             chmod 700 gradlew
             ./gradlew dependencies
       - save_cache:
@@ -49,7 +49,7 @@ jobs:
       # run tests!
       - run: 
           command: |
-            cd project
+            
             chmod 700 gradlew
             echo $PWD
             chmod 700 gradlew
